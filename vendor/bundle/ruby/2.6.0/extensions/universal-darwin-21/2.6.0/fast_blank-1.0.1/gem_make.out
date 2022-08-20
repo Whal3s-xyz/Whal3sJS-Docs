@@ -1,0 +1,16 @@
+current directory: /Users/jonas/Htdocs/whales-api-docs/vendor/bundle/ruby/2.6.0/gems/fast_blank-1.0.1/ext/fast_blank
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 extconf.rb
+creating Makefile
+
+current directory: /Users/jonas/Htdocs/whales-api-docs/vendor/bundle/ruby/2.6.0/gems/fast_blank-1.0.1/ext/fast_blank
+make DESTDIR\= sitearchdir\=./.gem.20220722-9753-1rcgkru sitelibdir\=./.gem.20220722-9753-1rcgkru clean
+
+current directory: /Users/jonas/Htdocs/whales-api-docs/vendor/bundle/ruby/2.6.0/gems/fast_blank-1.0.1/ext/fast_blank
+make DESTDIR\= sitearchdir\=./.gem.20220722-9753-1rcgkru sitelibdir\=./.gem.20220722-9753-1rcgkru
+compiling fast_blank.c
+linking shared-object fast_blank.bundle
+ld: warning: directory not found for option '-L/AppleInternal/Library/BuildRoots/6c37ac75-8bce-11ec-9b2f-4a23b0182bfd/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.4.Internal.sdk/usr/local/lib'
+
+current directory: /Users/jonas/Htdocs/whales-api-docs/vendor/bundle/ruby/2.6.0/gems/fast_blank-1.0.1/ext/fast_blank
+make DESTDIR\= sitearchdir\=./.gem.20220722-9753-1rcgkru sitelibdir\=./.gem.20220722-9753-1rcgkru install
+/usr/bin/install -c -m 0755 fast_blank.bundle ./.gem.20220722-9753-1rcgkru
